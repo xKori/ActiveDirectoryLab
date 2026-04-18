@@ -1,6 +1,9 @@
 # Active Directory Lab
 Tutorial I used to **set up the homelab**: https://www.youtube.com/watch?v=MHsI8hJmggI
 
+<img width="1748" height="850" alt="image" src="https://github.com/user-attachments/assets/f328ca03-f5ac-439c-b89b-bff3eb4417a5" />
+<img width="1748" height="857" alt="image" src="https://github.com/user-attachments/assets/ae4199a9-fb45-4c40-9a93-07cab68f2213" />
+
 <h1>Active Directory Home Lab Setup</h1>
 <ul>
   <li>Created Windows Server 2019 Virtual Machine as the Domain Controller</li>
