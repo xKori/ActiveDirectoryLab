@@ -16,7 +16,7 @@ Tutorial I used from Josh Madakor: https://www.youtube.com/watch?v=MHsI8hJmggI
 </ul>
 
 <h2>Active Directory Experience</h2>
-<p>After creating the lab I practiced doing common tasks in Active Directory</p>
+<p>After creating the lab I practiced common administrative tasks in Active Directory</p>
 
 <h3>User Account Management</h3>
 <ol>
