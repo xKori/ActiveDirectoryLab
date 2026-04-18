@@ -11,8 +11,8 @@ Tutorial I used to **set up the homelab**: https://www.youtube.com/watch?v=MHsI8
 <li>Added remote access server role and routing</li>
 <li>Added NAT to remote access server config</li>
 <li>Added DHCP role to server</li>
-<li>Created windows 10 client VM</li>
-<li>Connected windows 10 client VM to the Active Directory domain to verify connection</li>
+<li>Created windows 10 "client" Virtual Machine</li>
+<li>Connected windows 10 "client" VM to the Active Directory domain to verify connection</li>
 </ul>
 
 <h2>Active Directory Experience</h2>
