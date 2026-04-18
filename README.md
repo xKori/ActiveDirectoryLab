@@ -1,4 +1,4 @@
-# ActiveDirectoryLab
+# Active Directory Lab
 Tutorial I used from Josh Madakor: https://www.youtube.com/watch?v=MHsI8hJmggI
 
 <h1>Active Directory Home Lab Setup</h1>
